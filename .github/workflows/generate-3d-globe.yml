@@ -1,0 +1,36 @@
+name: Generate 3D Contribution Globe
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # Runs daily at 18:00 UTC
+  workflow_dispatch:        # Allows manual trigger from Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D Globe
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: cwilson-111
+          SETTING_JSON: |
+            {
+              "githubUserName": "cwilson-111",
+              "type": "NORMAL",
+              "fileName": "profile-night-rainbow.svg",
+              "backgroundColor": "#0d1117"
+            }
+
+      - name: Commit & Push
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add -A .
+          git diff --cached --exit-code || git commit -m "Update 3D contribution globe"
+          git push
