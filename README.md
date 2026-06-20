@@ -7,9 +7,6 @@
 
 <br/>
 
-<!-- Snake animation / 3D Globe placeholder note -->
-<!-- To enable the 3D contribution globe, add the GitHub Action below -->
-
 ---
 
 ## 🧠 About Me
@@ -29,9 +26,9 @@ cwilson = {
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=cwilson-111&show_icons=true&theme=synthwave&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cwilson-111&show_icons=true&theme=synthwave&hide_border=true&count_private=true" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwilson-111&layout=compact&theme=synthwave&hide_border=true&langs_count=6" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cwilson-111&layout=compact&theme=synthwave&hide_border=true&langs_count=6" height="165"/>
 
 </div>
 
@@ -50,8 +47,6 @@ cwilson = {
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Globe" />
 </div>
-
-> ⚙️ **Setup required:** Add the GitHub Action below to auto-generate this globe daily.
 
 ---
 
