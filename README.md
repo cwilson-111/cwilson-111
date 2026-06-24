@@ -22,7 +22,6 @@ cwilson = {
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
@@ -33,10 +32,11 @@ cwilson = {
 
 ---
 
-## 🔥 Contribution Streak
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=cwilson-111&theme=synthwave&hide_border=true&fire=FF00FF&ring=FF00FF&currStreakLabel=FF00FF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cwilson-111&show_icons=true&theme=synthwave&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwilson-111&layout=compact&theme=synthwave&hide_border=true&langs_count=6" height="165" />
 </div>
 
 ---
