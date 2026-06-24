@@ -23,20 +23,26 @@ cwilson = {
 ---
 
 
-## 📊 GitHub Stats
+## 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cwilson-111&show_icons=true&theme=synthwave&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwilson-111&layout=compact&theme=synthwave&hide_border=true&langs_count=6" height="165" />
+  <img src="https://streak-stats.demolab.com?user=cwilson-111&theme=synthwave&hide_border=true&fire=FF00FF&ring=FF00FF&currStreakLabel=FF00FF" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cwilson-111&show_icons=true&theme=synthwave&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwilson-111&layout=compact&theme=synthwave&hide_border=true&langs_count=6" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cwilson-111&bg_color=0d1117&color=FF00FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cwilson-111&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
 </div>
 
 ---
@@ -52,14 +58,12 @@ cwilson = {
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
