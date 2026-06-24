@@ -13,10 +13,10 @@
 
 ```python
 cwilson = {
-    "focus"    : ["Machine Learning", "Deep Learning", "AI Systems"],
-    "language" : "Python 🐍",
-    "currently": "Building cool models and breaking things",
-    "motto"    : "In data we trust.",
+    "Focus"    : ["Machine Learning", "Deep Learning", "AI Systems"],
+    "Language" : "Python 🐍",
+    "Currently": "Building cool models and breaking things",
+    "Motto"    : "In data we trust.",
 }
 ```
 
