@@ -1,7 +1,7 @@
 <!-- Header Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+cwilson-111+%F0%9F%91%BE;Data+%2F+ML+%2F+AI+Engineer;Building+the+future+with+Python;Let's+make+machines+smarter." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Cole+Wilson+%F0%9F%91%BE;AI+%2F+ML+Engineer;Building+LLM-Powered+Systems;Python+%7C+Automation+%7C+Applied+AI;Turning+workflows+into+software" alt="Typing SVG" />
   </a>
 </div>
 
