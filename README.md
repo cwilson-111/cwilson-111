@@ -40,22 +40,36 @@ cwilson = {
 ---
 
 
-# 🏆 GitHub Trophies
+## ⏱️ Coding Activity
 
 <div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=cwilson-111&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10" 
-    alt="GitHub Trophies" 
-  />
+
+https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_NAME&theme=radical
+
 </div>
 
 
 ---
 
-## 🌐 3D Contribution Globe
+## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cwilson-111/cwilson-111/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Globe" />
+
+https://streak-stats.demolab.com?user=cwilson-111&theme=radical&hide_border=true
+
+https://github-readme-activity-graph.vercel.app/graph?username=cwilson-111&theme=radical&hide_border=true
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+https://github-readme-stats.vercel.app/api/pin/?username=cwilson-111&repo=your-repo-1&theme=radical&hide_border=true
+https://github-readme-stats.vercel.app/api/pin/?username=cwilson-111&repo=your-repo-2&theme=radical&hide_border=true
+
 </div>
 
 ---
