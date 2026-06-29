@@ -52,12 +52,16 @@ cwilson = {
 ### 🌲 Storage Scanner
 Desktop tool that scans directories, detects large files, and helps users clean storage efficiently.
 
+https://github.com/cwilson-111/Storage-Scanner
+
 **Tech:** Python, Tkinter, File System Analysis
 
 ---
 
 ### 📬 Email Summarizer
 AI-powered app that summarizes long emails into concise, actionable insights.
+
+https://github.com/cwilson-111/Email-Summarizer
 
 **Tech:** Python, Firebase, LLM APIs
 
