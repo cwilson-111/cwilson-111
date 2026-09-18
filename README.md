@@ -5,6 +5,11 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=cwilson-111&color=FF00FF&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/cwilson-111?label=Followers&style=for-the-badge&color=00F7FF&logoColor=white" />
+</div>
+
 <br/>
 
 ---
@@ -13,15 +18,23 @@
 
 ```python
 cwilson = {
-    "Focus"    : ["Machine Learning", "Deep Learning", "AI Systems"],
-    "Language" : "Python 🐍",
-    "Currently": "Building cool models and breaking things",
-    "Motto"    : "In data we trust.",
+    "Focus"      : ["Machine Learning", "Deep Learning", "AI Systems"],
+    "Language"   : "Python 🐍",
+    "Currently"  : "Building cool models and breaking things",
+    "Motto"      : "In data we trust.",
 }
 ```
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cwilson-111&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&icon_color=FF00FF&title_color=00F7FF&text_color=FFFFFF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwilson-111&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=FFFFFF" />
+</div>
+
+---
 
 ## 🔥 Contribution Streak
 
@@ -39,31 +52,44 @@ cwilson = {
 
 ---
 
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cwilson-111&theme=radical&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
 ## 🚀 What I'm Building
 
 - AI-powered tools that turn raw data into usable insights
 - Automation systems that eliminate repetitive work
 - LLM-based applications for real-world workflows
 - Software that improves efficiency in business environments
-``
+
+---
 
 ## 📌 Featured Projects
 
 ### 🌲 Storage Scanner
-Desktop tool that scans directories, detects large files, and helps users clean storage efficiently.
+A cross-platform (Windows/macOS/Linux) desktop disk-usage analyzer — scans directories, surfaces large files and cleanup candidates, and includes an NTFS Master File Table fast-scan engine on Windows for large-volume performance.
 
-https://github.com/cwilson-111/Storage-Scanner
+**[→ View Repo](https://github.com/cwilson-111/Storage-Scanner)**
 
-**Tech:** Python, Tkinter, File System Analysis
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Tkinter-3776AB?style=flat-square" />
+<img src="https://img.shields.io/badge/Cross--Platform-00C853?style=flat-square" />
 
 ---
 
 ### 📬 Email Summarizer
 AI-powered app that summarizes long emails into concise, actionable insights.
 
-https://github.com/cwilson-111/Email-Summarizer
+**[→ View Repo](https://github.com/cwilson-111/Email-Summarizer)**
 
-**Tech:** Python, Firebase, LLM APIs
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/LLM_APIs-8A2BE2?style=flat-square" />
 
 ---
 
@@ -71,6 +97,7 @@ https://github.com/cwilson-111/Email-Summarizer
 Analyzes sales calls and extracts key points, helping improve follow-up and decision-making.
 
 **Tech:** Python, NLP, AI summarization
+<!-- Add a repo link here once it's public — every other project above has one -->
 
 ---
 
@@ -82,4 +109,15 @@ Analyzes sales calls and extracts key points, helping improve follow-up and deci
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Automation-00C853?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tkinter-306998?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="www.linkedin.com/in/cole-wilson-1a3874251"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  
 </div>
